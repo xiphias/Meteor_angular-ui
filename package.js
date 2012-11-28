@@ -3,7 +3,7 @@ Package.describe({
 });
 
 Package.on_use(function (api) {
-  api.use(['angularjs']);
+  api.use(['mongo-livedata']);
  	
   api.add_files('angular-ui.js', 'client');
   api.add_files('angular-ui.css', 'client');
