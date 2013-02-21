@@ -1,8 +1,8 @@
 {
   "name": "angular-ui",
-  "description": "Smartpackage for the use of angular-ui on top of meteor",
-  "homepage": "https://github.com/xiphias/Meteor_angular-ui",
-  "author": "Adam Ritter",
-  "version": "0.1.0",
-  "git": "https://github.com/xiphias/Meteor_angular-ui.git"
+  "description": "Smartpackage for the use of angular-ui on top of meteor (forked from xiphias' copy)",
+  "homepage": "https://github.com/fushunpoon/Meteor_angular-ui",
+  "author": "Hok Shun Poon",
+  "version": "0.4.0",
+  "git": "https://github.com/fushunpoon/Meteor_angular-ui.git"
 }
